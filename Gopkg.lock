@@ -1,0 +1,13 @@
+memo = "622aa2a6138b7f97651098c628243e3c6260829155ac64c5bbeb13dac740110b"
+
+[[projects]]
+  name = "github.com/go-gorp/gorp"
+  packages = ["."]
+  revision = "4deece61034873cb5b5416e81abe4cea7bd0da72"
+  version = "v2.0.0"
+
+[[projects]]
+  name = "github.com/go-sql-driver/mysql"
+  packages = ["."]
+  revision = "a0583e0143b1624142adab07e0e97fe106d99561"
+  version = "v1.3"
